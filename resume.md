@@ -1,62 +1,53 @@
-# Cheng Peng
+# Ni Lan
 
-- <pengcheng@live.ca>
-- +86 13070157185
-- [LinkedIn](https://www.linkedin.com/in/%E7%A8%8B-%E5%BD%AD-8557029b/)
+- <sophiedada123@gmail.com>
+- +86 13683620189
 - Beijing, China
-
-4 YOE as an SDE II at Amazon Intech JP Store with full stack development experience. Always trying to do more with less. Thinking about how to grow into a senior position.
-
-## Experience
-
-### *SDE, Amazon JP* <span>*Jan 2020 -- Present*</span>
-
-### VAMOS <span>2022-2024</span>
-
-VAMOS is a one-stop internal tool for Vendor Managers and Brand Specialists, containing multiple applications to let users analyze performance, view recommendations, create actions, and negotiate with customers.
-
-- Led the frontend development for several applications, setting standards for code, testing, and component design.
-- Participated in backend and data pipeline development, contributing to end-to-end project development.
-- Managed feature development, aligning project milestones and mitigating risks. Handled a hard launch milestone with only 50% bandwidth available.
-- Directed the development of key applications, moving the project towards a low-code approach and enforcing PM & UXD to design with limitations to save development effort.
-- Gained significant experience in project management and technical innovation, reinforcing skills in both frontend and backend development areas.
-
-### Amazon Seller Central Lens <span>2020-2021</span>
-
-SellerCentralLens is an access management tool on top of Seller Central, which allows internal users to apply, review, manage, and delegate permissions to allow internal users to see sellers' pages when necessary. It was designed to replace the old *spoofer* system with finer grain permission control, a more user-friendly UI, and integrations like Emails and other internal systems.
-
-- Led the frontend development, selecting tech stacks and establishing coding standards.
-- Contributed to low-level design decisions, enhancing system scalability and performance.
-- Authored a frontend development guide to elevate team knowledge and efficiency. Recognized for leadership and mentorship after handing over the project.
-
-### Amazon Japan Cashless V2 <span>2020-2021</span>
-
-Cashless V2 is generally a subset of Cashless V1, which was designed to provide a discount program along with the JP tax increase, leveraging the V1 system for promotion management.
-
-- Managed 10+ software packages and 3+ data pipelines, successfully handling an unexpected 10x increase in data volume before launch.
-- Ensured timely project launch with optimized data processing, demonstrating capability in high-pressure situations.
-- Initiated design documentation, improving skills in data handling and system maintenance.
-
-### *SDE Intern, Amazon JP* <span>*Jul 2019 -- Oct 2019*</span>
-### Amazon Japan Cashless V1 <span>Jul 2019 -- Oct 2019</span>
-
-Cashless V1 is a large system designed to manage promotions in response to the JP government's policy.
-
-- Developed an audit portal for the JP Cashless Rebate program, handling frontend development and contributing to the full development lifecycle.
-- Acquired hands-on experience with JSP, CSS, JavaScript, and full-cycle development, laying a solid foundation for my career in software development.
 
 ## Education
 
-### Beihang University, MSc Computing Science <span>2017--2020</span>
-  - Master of Computer Technology from the School of Computer Science and Engineering, nominated for Outstanding Thesis.
+### Georgia Institute of Technology, MSc Computer Science <span>2023--Now</span>
+  - Master of Science in Computer Sience from the School of Computing, GPA 4.0/4.0
 
-### Beihang University, BEng Electronics Engineering <span>2013 -- 2017</span>
-  - Bachelor of Electronics Engineering from the School of Electronics Engineering, achieved the top score on the graduate school entrance exam.
+### Renmin University of China, Master of Finance <span>2020 -- 2018</span>
+  - Master of Finance from the School of Finance, GPA 3.83/4.0
+
+### Renmin University of China, Bachelor of Economics <span>2018 -- 2014</span>
+  - Bachelor of Economics from the School of Finance, GPA 3.63/4.0
+
+## Work Experience
+
+### *Associate, Asia Food Growth Advisors (Hong Kong) Limited* <span>*Aug 2020 -- Nov 2022*</span>
+A private equity firm jointly managed by China Resources, Fung Strategics and Investcorp with a focus on investing growth stage F&B companies
+within Asia. Currently AUM $300m
+
+- Led in-depth research on various food and beverage sectors and proposed 4 investment strategies for the fund, which were adopted in fundraising pitch book
+- Participated in 2 M&A cases and 2 minority investments with total investment amount of c.$160 million; deeply involved in originating and structuring deals, financial modeling, due diligence, negotiation, documentation, etc
+- Sought for potential investment targets; establish network with other FA/PE/VC firms; introduced 15+ deals to the fund, covering cereal, pet food, coffee, and baby food sector
+
+### *Data Analyst Intern,Ether Capital* <span>*Jun 2017 -- Sep 2017*</span>
+- Use SQL to obtain and analyze the data performance of projects in the company's project database. The analysis dimensions include the number and depth of contacts of potential investors to the project, the scale and financing rounds of the project, feedback from potential investors on the project, etc. And use visualization tools such as Tableau to output project analysis reports
+- Assisted in designing a series of data monitoring indicators, and proposed using a weighted average index to evaluate investor satisfaction with projects
+
+## Project Experience
+### Grocery Express Project <span>2023</span>
+
+Grocery Express Project is a drone delivery system. It keeps up-to-date information of stores operation, selling items, customers, drones and pilots, and manages order placement and multiple order deliveries from store to customer.
+
+- Responsible for front-end design. Use React to design a user-friendly interface simplifies the composition of commands with aruguments and timestamps.
+- Participated in backend development. Proposed a unique combination of fake clock and heartbeat mechanism enables time fast-forwarding capabilities
+- Refined distance, time and cost features. Utilized the Euclidean distance formula to compute the distance between two spots. Introduced timestamps to record when events have occurred, which makes the system more reasonable for all users. Added costs for purchasing drones, penalties for delivery overtime
+
+### Python to Calculate KMV model <span>2020</span>
+
+For my master thesis, I leveraged on Python to collect rating data of bond issuers from multiple rating agencies' websites. Then I wrote a Python program to calculate bonds' default distance with the KMV model to find out if there is any correlation between rating level and the nature of the rating agencies.
+
 
 ## Skills
-- Full stack development, including Frontend, backend, native AWS, and data pipelines.
-- Expertise in the field of used cars and cooking; beginner in trumpet playing.
-- Duolingo Español 200+ day streak.
+- Programming language: Java, Python, React, SQL.
+- Fluent English: TOEFL 107
+- Love hiking, traveling, photography
+- Duolingo Español 300+ day streak.
 
 
 
